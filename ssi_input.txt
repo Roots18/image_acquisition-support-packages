@@ -1,0 +1,8 @@
+## Specify support packages you want to install
+
+## Install Image Acquisition Toolbox Support Package for Matrox Hardware
+product.MATROX
+
+## Install Image Acquisition Toolbox Support Package for OS Generic Video Interface
+product.OSVIDEO
+
